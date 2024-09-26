@@ -1,3 +1,5 @@
+// https://medium.com/hackernoon/object-oriented-programming-in-vanilla-javascript-f3945b15f08a
+
 function Vehicle(p1) {
     this._p1 = p1;
 }
